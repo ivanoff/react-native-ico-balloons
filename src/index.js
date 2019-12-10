@@ -3,10 +3,10 @@ import { SvgXml } from 'react-native-svg';
 
 const iconsSet = {
   question: require('./data/question'),
-  'baloons': require('./data/baloons'),
+  'balloons': require('./data/balloons'),
 };
 
-const defaultSet = 'baloons';
+const defaultSet = 'balloons';
 
 export default class Icon extends Component {
   constructor(props) {

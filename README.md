@@ -1,22 +1,22 @@
-# react-native-ico-baloons
+# react-native-ico-balloons
 
-### Baloons Icons for React Native
+### Balloons Icons for React Native
 
 3 Icons
 
 ## Usage
 
 ```
-import Icon from 'react-native-ico-baloons';
+import Icon from 'react-native-ico-balloons';
 
 
 // Inside some view component
 render() {
     return (
         <Fragment>
-          <Icon name="home" />
-          <Icon name="file" height="40" width="40" />
-          <Icon name="smile" color="red" />
+          <Icon name="Groups" />
+          <Icon name="Words" height="40" width="40" />
+          <Icon name="Quiz" color="red" />
         </Fragment>
     );
 }
@@ -28,13 +28,13 @@ render() {
 #### yarn
 
 ```bash
-yarn add react-native-ico-baloons react-native-svg
+yarn add react-native-ico-balloons react-native-svg
 ```
 
 #### npm
 
 ```bash
-npm install --save react-native-ico-baloons react-native-svg
+npm install --save react-native-ico-balloons react-native-svg
 ```
 
 ### Link react-native-svg
@@ -65,7 +65,7 @@ height | yes | 20 | height of the icon | 40
 
 ## List of icons
 
-- [List of Baloons Icons](static/baloons.md)
+- [List of Balloons Icons](static/balloons.md)
 
 ## Icons Made by
 
