@@ -1,8 +1,8 @@
-# react-native-ico-balloons
+# Balloons Icons for React Native
 
-### Balloons Icons for React Native
+### react-native-ico-balloons
 
-23 Icons
+23 icons
 
 ## Usage
 
@@ -13,15 +13,19 @@ import Icon from 'react-native-ico-balloons';
 // Inside some view component
 render() {
     return (
-        <Fragment>
+        <>
           <Icon name="Groups" />
           <Icon name="Words" height="40" width="40" />
           <Icon name="Quiz" color="red" />
-        </Fragment>
+        </>
     );
 }
 
 ```
+
+## List of Icons
+
+- [List of Balloons Icons](static/balloons.md)
 
 ## Installation
 
@@ -63,13 +67,9 @@ width | yes | 20 | width of the icon | 40
 height | yes | 20 | height of the icon | 40
 ...rest | no | | other props | style={{backgroundColor: "#00f"}}
 
-## List of icons
-
-- [List of Balloons Icons](static/balloons.md)
-
 ## Icons Made by
 
-[Dave Gandy](https://www.flaticon.com/authors/dave-gandy)
+[Chanut](https://www.flaticon.com/authors/chanut)
 
 ## Created by
 
