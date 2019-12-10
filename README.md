@@ -2,7 +2,7 @@
 
 ### Balloons Icons for React Native
 
-3 Icons
+23 Icons
 
 ## Usage
 
