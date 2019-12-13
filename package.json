@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico-balloons",
-  "version": "1.5.2",
+  "version": "1.6.1",
   "description": "Balloons Icons for React Native",
   "main": "src/index.js",
   "module": "src/index.js",
