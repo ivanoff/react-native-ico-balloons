@@ -25,7 +25,7 @@ render() {
 
 ## List of Icons
 
-- [List of Balloons Icons](static/balloons.md)
+- [List of Balloons Icons](http://ico.simpleness.org/pack/balloons)
 
 ## Installation
 
