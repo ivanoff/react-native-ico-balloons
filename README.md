@@ -1,8 +1,8 @@
-# Balloons Icons for React Native
+# balloons Icons for React Native
 
 ### react-native-ico-balloons
 
-23 icons
+369 Icons
 
 ## Usage
 
@@ -14,18 +14,18 @@ import Icon from 'react-native-ico-balloons';
 render() {
     return (
         <>
-          <Icon name="Groups" />
-          <Icon name="Words" height="40" width="40" />
-          <Icon name="Quiz" color="red" />
+          <Icon name="home" />
+          <Icon name="file" height="40" width="40" />
+          <Icon name="smile" color="red" />
         </>
     );
 }
 
 ```
 
-## List of Icons
+## List of icons
 
-- [List of Balloons Icons](http://ico.simpleness.org/pack/balloons)
+- [List of balloons Icons](http://ico.simpleness.org/pack/balloons)
 
 ## Installation
 
@@ -69,7 +69,7 @@ height | yes | 20 | height of the icon | 40
 
 ## Icons Made by
 
-[Chanut](https://www.flaticon.com/authors/chanut)
+[Dave Gandy](https://www.flaticon.com/authors/dave-gandy)
 
 ## Created by
 
