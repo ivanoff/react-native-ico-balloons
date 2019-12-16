@@ -1,8 +1,8 @@
-# balloons Icons for React Native
+# Balloons Icons for React Native
 
 ### react-native-ico-balloons
 
-369 Icons
+26 Icons
 
 ## Usage
 
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of balloons Icons](http://ico.simpleness.org/pack/balloons)
+- [List of Balloons Icons](http://ico.simpleness.org/pack/balloons)
 
 ## Installation
 
