@@ -4,6 +4,12 @@
 
 26 Icons
 
+<img src="./static/speech-bubble-1.png" alt="speech-bubble-1" width="200" height="200"> <img src="./static/speech-bubble-10.png" alt="speech-bubble-10" width="200" height="200"> <img src="./static/speech-bubble-11.png" alt="speech-bubble-11" width="200" height="200">
+
+## List of icons
+
+- [List of Balloons Icons](http://ico.simpleness.org/pack/balloons)
+
 ## Usage
 
 ```
@@ -22,10 +28,6 @@ render() {
 }
 
 ```
-
-## List of icons
-
-- [List of Balloons Icons](http://ico.simpleness.org/pack/balloons)
 
 ## Installation
 
@@ -61,7 +63,7 @@ Returns a SvgXml icon by name and group.
 
  name | optional | default value | description | examples
 ------|----------|---------------|-------------|---------
-name | no |  | name of file | "speech-bubble-1"
+name | no |  | name of icon | "speech-bubble-1"
 color | yes | | line color, css style | "#00ff00", "#0f0", "green"
 width | yes | 20 | width of the icon | 40
 height | yes | 20 | height of the icon | 40
