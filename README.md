@@ -2,9 +2,9 @@
 
 ### react-native-ico-balloons
 
-26 Icons
+369 Vector Icons for React Native
 
-<img src="./static/speech-bubble-1.png" alt="speech-bubble-1" width="200" height="200"> <img src="./static/speech-bubble-10.png" alt="speech-bubble-10" width="200" height="200"> <img src="./static/speech-bubble-11.png" alt="speech-bubble-11" width="200" height="200">
+<img src="./static/speech-bubble-1.png" alt="speech-bubble-1" width="150" height="150"> <img src="./static/speech-bubble-10.png" alt="speech-bubble-10" width="150" height="150"> <img src="./static/speech-bubble-11.png" alt="speech-bubble-11" width="150" height="150">
 
 ## List of icons
 
